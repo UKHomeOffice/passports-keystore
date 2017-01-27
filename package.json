@@ -1,6 +1,6 @@
 {
   "name": "hmpo-keystore",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Store and retrieve named objects an express session",
   "main": "index.js",
   "scripts": {
